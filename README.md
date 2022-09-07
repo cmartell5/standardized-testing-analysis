@@ -92,8 +92,8 @@ Create a table that breaks down school performance based on school size (small, 
 
 Create a table that breaks down school performance based on type of school (district or charter).
 
-### Analysis
-# Report at least two observable trends based on the data
+# Analysis
+### Report at least two observable trends based on the data
 
 If you refer to the scores of the chart Scores by School Type, you will see that scores are higher at Charter Schools than District Schools across the board. Their is a huge disparity in the % Overall Passing, with Charter schools have over 90% and District schools at about 54% passing rate.
 
