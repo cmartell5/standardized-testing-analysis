@@ -1,4 +1,4 @@
-# pandas-project
+# School Standardized Testing Analysis
 
 
 I've been asked to analyze the district-wide standardized test results. I was given access to every student's math and reading scores, as well as various information on the schools they attend. My task is to aggregate the data to showcase obvious trends in school performance.
